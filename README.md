@@ -1,0 +1,2 @@
+Bin Packing Problem to klasyczny problem optymalizacyjny, w którym celem jest spakowanie zestawu elementów o określonych rozmiarach do jak najmniejszej liczby pojemników
+o ograniczonej pojemności. Każdy element musi zostać umieszczony w jednym z pojemników, a suma rozmiarów elementów w jednym pojemniku nie może przekroczyć jego maksymalnej pojemności.
